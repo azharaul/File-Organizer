@@ -1,0 +1,88 @@
+{
+  "watch_folder": "D:\\azhar\\Downloads",
+  "categories": {
+    "Documents": [
+      ".pdf",
+      ".docx",
+      ".doc",
+      ".txt",
+      ".xlsx",
+      ".xls",
+      ".pptx",
+      ".ppt",
+      ".csv",
+      ".odt"
+    ],
+    "Images": [
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".gif",
+      ".webp",
+      ".bmp",
+      ".svg",
+      ".tiff",
+      ".ico"
+    ],
+    "Videos": [
+      ".mp4",
+      ".mkv",
+      ".mov",
+      ".avi",
+      ".wmv",
+      ".flv",
+      ".webm"
+    ],
+    "Audio": [
+      ".mp3",
+      ".wav",
+      ".flac",
+      ".aac",
+      ".ogg",
+      ".m4a",
+      ".wma"
+    ],
+    "Archives": [
+      ".zip",
+      ".rar",
+      ".7z",
+      ".tar",
+      ".gz",
+      ".bz2",
+      ".xz"
+    ],
+    "Installers": [
+      ".exe",
+      ".msi",
+      ".dmg",
+      ".pkg",
+      ".deb",
+      ".rpm"
+    ],
+    "Code": [
+      ".py",
+      ".js",
+      ".ts",
+      ".html",
+      ".css",
+      ".json",
+      ".xml",
+      ".yml",
+      ".yaml",
+      ".sh",
+      ".bat"
+    ],
+    "Others": []
+  },
+  "temp_extensions": [
+    ".crdownload",
+    ".part",
+    ".tmp",
+    ".download",
+    ".partial",
+    ".!ut"
+  ],
+  "log_file": "logs/organizer.log",
+  "log_level": "INFO",
+  "move_delay_seconds": 1.5
+}
